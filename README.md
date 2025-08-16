@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi, I'm Sachin Kushwaha 👋</h1>
-<h3 align="center">धन्य: अस्मि भारतत्वेन!!</h3>
+<h3 align="center">धन्य: अस्मि भारतत्वेन !!</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/sachin624k" target="_blank">
