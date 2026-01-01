@@ -59,7 +59,7 @@
 > A production-ready **procurement platform** built for a real client to streamline B2B business processes.
 
 * 🛠 **Stack:** `React.js` `Vite` `Tailwind CSS` `JavaScript`
-* 🌍 **Live Demo:** [Visit ProDiligix](#)
+* 🌍 **Live Demo:** [Visit ProDiligix](https://www.prodiligix.com/)
 * 💡 **Impact:** Deployed live product trusted by an actual client; designed for speed and modern aesthetics.
 
 ---
