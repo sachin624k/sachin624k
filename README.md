@@ -6,7 +6,7 @@
   <img src="assets/banner.jpeg" alt="Banner" style="border-radius: 16px;" width="96%" />
 </picture>
 
-<br/><br/>
+<br/>
 
 <sub>धन्यः अस्मि भारतत्वेन</sub>
 
@@ -14,7 +14,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&pause=99999&color=FF6B00&center=true&vCenter=true&width=700&lines=Sachin+Kushwaha" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=17&pause=2500&color=777777&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+CS+Student;I+build+things+that+actually+matter.;MERN+%2B+TypeScript+%2B+Next.js" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=17&pause=2500&color=777777&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+%2B+TypeScript+%2B+Next.js;Learning...+Learning...+Learning..." alt="Roles" />
 
 <br/><br/>
 
@@ -50,17 +50,17 @@
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin624k&layout=compact&bg_color=111111&title_color=FF6B00&text_color=cccccc&border_color=333333&border_radius=10&langs_count=6" height="175" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin624k&background=111111&ring=FF6B00&fire=FF8C00&currStreakLabel=FF6B00&sideLabels=aaaaaa&dates=666666&sideNums=ffffff&currStreakNum=FF6B00&border=333333&border_radius=10" height="175" />
 
-<br/><br/>
+<br/>
 
 ---
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=14&pause=99999&color=444444&center=true&vCenter=true&width=500&lines=%22Code+with+purpose.+Build+with+passion.%22" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=14&pause=99999&color=FFFFFF&center=true&vCenter=true&width=500&lines=not+2day+but+2mrow" alt="Quote" />
 
 <br/>
 
