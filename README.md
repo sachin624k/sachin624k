@@ -1,88 +1,67 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,434343&height=280&section=header&text=Hi,%20I'm%20Sachin%20Kushwaha%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
-</div>
-
-<div align="center">
-  <img src="assets/catvdo.gif" alt="Coding Cat GIF" width="220" />
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=धन्य:+अस्मि+भारतत्वेन!!" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/sachin624k" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>&nbsp;
-  <a href="https://x.com/sachin624k" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-  </a>
-</div>
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachin624k&label=Profile%20Views&color=000000&style=flat-square" alt="Profile Views"/>
-</div>
+<picture>
+  <img src="assets/banner.jpeg" alt="Banner" style="border-radius: 16px;" width="96%" />
+</picture>
 
----
+<br/><br/>
 
-### 👨‍💻 About Me
-
-<div align="center">
-
-💭 A passionate **Computer Science student** driven to create remarkable full-stack web experiences.<br/>
-💡 Focused on building **real-world, impactful, and production-level** projects.<br/>
-🚀 Always learning, iterating, and exploring modern technologies.<br/>
-🤝 **Collaborate. Code. Create.**
-
-</div>
-
----
-
-### ⚙️ Tech Stack & Tools
-
-<div align="center">
-
-| **Frontend** | **Backend & DB** | **Tools** |
-| :---: | :---: | :---: |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-
-</div>
-
----
-
-#### ⚡ **ProDiligix – B2B Procurement Platform** *(Live Client Project)*
-> A production-ready **procurement platform** built for a real client to streamline B2B business processes.
-
-* 🛠 **Stack:** `React.js` `Vite` `Tailwind CSS` `JavaScript`
-* 🌍 **Live Demo:** [Visit ProDiligix](https://www.prodiligix.com/)
-* 💡 **Impact:** Deployed live product trusted by an actual client; designed for speed and modern aesthetics.
-
----
-
-<div align="center">
-<br/>
-
-### 📫 Let's Connect
-
-<a href="mailto:sachin77000k@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/sachin624k" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<sub>धन्यः अस्मि भारतत्वेन</sub>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&pause=99999&color=FF6B00&center=true&vCenter=true&width=700&lines=Sachin+Kushwaha" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=17&pause=2500&color=777777&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+CS+Student;I+build+things+that+actually+matter.;MERN+%2B+TypeScript+%2B+Next.js" alt="Roles" />
+
+<br/><br/>
+
+---
+
+## 🛠️ Tech Stack
+
 <br/>
 
-> ⚡ *"Code with purpose. Build with passion."*
+| **Core & Frontend** | **Backend & Tools** |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,tailwind&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,vscode,postman&theme=dark&perline=4" /> |
 
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,434343&height=120&section=footer" alt="Footer" />
+> **MERN Stack** — solid full-stack foundation &nbsp;|&nbsp; **TypeScript** — clean, reliable code &nbsp;|&nbsp; **Next.js** — modern React, production-ready
+
+<br/>
+
+---
+
+## ⚡ Live
+
+[**ProDiligix**](https://www.prodiligix.com/) — B2B Procurement Platform &nbsp;·&nbsp; `React` `Vite` `Tailwind`
+
+---
+
+## GitHub Stats
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sachin624k&show_icons=true&hide_title=false&hide_border=false&bg_color=111111&title_color=FF6B00&icon_color=FF8C00&text_color=cccccc&border_color=333333&border_radius=10&include_all_commits=true&count_private=true" height="175" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin624k&layout=compact&bg_color=111111&title_color=FF6B00&text_color=cccccc&border_color=333333&border_radius=10&langs_count=6" height="175" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin624k&background=111111&ring=FF6B00&fire=FF8C00&currStreakLabel=FF6B00&sideLabels=aaaaaa&dates=666666&sideNums=ffffff&currStreakNum=FF6B00&border=333333&border_radius=10" height="175" />
+
+<br/><br/>
+
+---
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=14&pause=99999&color=444444&center=true&vCenter=true&width=500&lines=%22Code+with+purpose.+Build+with+passion.%22" alt="Quote" />
+
+<br/>
+
 </div>
