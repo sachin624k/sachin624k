@@ -2,8 +2,8 @@
 
 <br/>
 
-<picture>
-  <img src="assets/banner.jpeg" alt="Banner" style="border-radius: 16px;" width="96%" />
+<picture style="display: block; border-radius: 16px; overflow: hidden; width: 96%;">
+  <img src="assets/banner.jpeg" alt="Banner" style="width: 100%; display: block;" />
 </picture>
 
 <br/>
