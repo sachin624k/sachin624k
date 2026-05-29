@@ -49,8 +49,6 @@
       <sub>B2B Procurement Platform</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=FF6B00" />
-      <img src="https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite&logoColor=FF6B00" />
-      <img src="https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss&logoColor=FF6B00" />
       <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=FF6B00" />
     </td>
     <td align="center" width="50%">
@@ -64,8 +62,6 @@
       <br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=FF6B00" />
       <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=FF6B00" />
-      <img src="https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss&logoColor=FF6B00" />
-      <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=FF6B00" />
     </td>
   </tr>
 </table>
