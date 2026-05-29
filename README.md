@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&pause=99999&color=FF6B00&center=true&vCenter=true&width=700&lines=Sachin+Kushwaha" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&pause=99999&color=FFF&center=true&vCenter=true&width=700&lines=Sachin+Kushwaha" alt="Name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=17&pause=2500&color=777777&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+%2B+TypeScript+%2B+Next.js;Learning...+Learning...+Learning..." alt="Roles" />
 
@@ -30,25 +30,50 @@
 
 <br/>
 
-> **MERN Stack** — solid full-stack foundation &nbsp;|&nbsp; **TypeScript** — clean, reliable code &nbsp;|&nbsp; **Next.js** — modern React, production-ready
+> **MERN Stack** &nbsp;|&nbsp; **TypeScript** &nbsp;|&nbsp; **Next.js**
 
 <br/>
 
 ---
 
-## ⚡ Live
-
-[**ProDiligix**](https://www.prodiligix.com/) — B2B Procurement Platform &nbsp;·&nbsp; `React` `Vite` `Tailwind`
+<br/>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.prodiligix.com" target="_blank">
+        <img src="assets/prodiligix.png" width="72" height="72" style="border-radius:16px" alt="ProDiligix" />
+      </a>
+      <br/><br/>
+      <a href="https://www.prodiligix.com"><b>ProDiligix</b></a>
+      <br/>
+      <sub>B2B Procurement Platform</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=FF6B00" />
+      <img src="https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite&logoColor=FF6B00" />
+      <img src="https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss&logoColor=FF6B00" />
+      <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=FF6B00" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.scrollmart.in" target="_blank">
+        <img src="assets/scrollmart.png" width="72" height="72" style="border-radius:16px" alt="ScrollMart" />
+      </a>
+      <br/><br/>
+      <a href="https://www.scrollmart.in"><b>ScrollMart</b></a>
+      <br/>
+      <sub>E-Commerce Platform</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=FF6B00" />
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=FF6B00" />
+      <img src="https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss&logoColor=FF6B00" />
+      <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=FF6B00" />
+    </td>
+  </tr>
+</table>
+<br/>
 
 ---
 
 ## GitHub Stats
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sachin624k&show_icons=true&hide_title=false&hide_border=false&bg_color=111111&title_color=FF6B00&icon_color=FF8C00&text_color=cccccc&border_color=333333&border_radius=10&include_all_commits=true&count_private=true" height="175" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin624k&layout=compact&bg_color=111111&title_color=FF6B00&text_color=cccccc&border_color=333333&border_radius=10&langs_count=6" height="175" />
 
 <br/>
 
