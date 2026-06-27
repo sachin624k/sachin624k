@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&pause=99999&color=FFF&center=true&vCenter=true&width=700&lines=Sachin+Kushwaha" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&pause=99999&color=0891B2&center=true&vCenter=true&width=700&lines=Sachin+Kushwaha" alt="Name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=17&pause=2500&color=777777&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+%2B+TypeScript+%2B+Next.js;Learning...+Learning...+Learning..." alt="Roles" />
 
